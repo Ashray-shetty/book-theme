@@ -65,8 +65,8 @@ thebe_config = {
 
 html_theme_options = {
     "path_to_docs": "docs",
-    "repository_url": "https://github.com/QuantEcon/quantecon-book-theme",
-    # "repository_branch": "gh-pages",  # For testing
+    "repository_url": "ttps://github.com/Ashray-shetty/bookcopy",
+    "repository_branch": "main",  # For testing
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",
         # "jupyterhub_url": "https://datahub.berkeley.edu",  # For testing
