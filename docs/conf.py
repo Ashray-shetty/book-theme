@@ -46,7 +46,7 @@ numfig = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "quantecon_book_theme"
+html_theme = "book_theme"
 html_logo = "_static/qe-logo.png"
 html_title = "Quantecon Book Theme"
 html_copy_source = True
